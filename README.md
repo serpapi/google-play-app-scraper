@@ -172,6 +172,9 @@ Here are some use cases for the Google Play Product API:
 - Aggregate developer contact information for outreach and partnerships.
 - Research content ratings and app requirements across different markets.
 
+## Related scraper
+- [Google Play Store Scraper](https://github.com/serpapi/google-play-scraper/)
+
 ## Contacts
 Feel free to reach out via `contact@serpapi.com`.
 
